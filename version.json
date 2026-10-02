@@ -1,7 +1,7 @@
 {
-  "version": "3.0.1",
-  "releaseNotes": "Patch de teste: botão SOM removido das janelas para teste de atualização em tempo real.",
-  "downloadUrl": "https://github.com/Carloshag/suzano-labs-update/releases/download/v3.0.1/SuzanoLabs.exe",
-  "publishedAt": "2026-10-02T12:55:00Z",
+  "version": "3.0.2",
+  "releaseNotes": "Novo sistema de notificação: alerta rápido de 3 segundos e botão verde dedicado no topo.",
+  "downloadUrl": "https://github.com/Carloshag/suzano-labs-update/releases/download/v3.0.2/SuzanoLabs.exe",
+  "publishedAt": "2026-10-02T13:09:00Z",
   "mandatory": false
 }
