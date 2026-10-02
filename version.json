@@ -1,7 +1,7 @@
 {
-  "version": "3.0.0",
-  "releaseNotes": "Versão inicial V3 Challenger Linguica com suporte a atualizações em tempo real.",
-  "downloadUrl": "https://github.com/Carloshag/suzano-labs-update/releases/download/v3.0.0/SuzanoLabs.exe",
-  "publishedAt": "2026-10-02T12:00:00Z",
+  "version": "3.0.1",
+  "releaseNotes": "Patch de teste: botão SOM removido das janelas para teste de atualização em tempo real.",
+  "downloadUrl": "https://github.com/Carloshag/suzano-labs-update/releases/download/v3.0.1/SuzanoLabs.exe",
+  "publishedAt": "2026-10-02T12:55:00Z",
   "mandatory": false
 }
